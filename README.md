@@ -1,5 +1,8 @@
 ### Hi there 👋
 ### I am Madhura Kongutte.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MmKongutte&label=Profile%20views&color=0e75b6&style=flat" alt="MmKongutte" /> </p>
+
 <!--
 **MmKongutte/MmKongutte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
